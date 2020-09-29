@@ -5,6 +5,6 @@
 </template>
 <style scoped>
 h1 {
-  color: lightsteelblue;
+  color: red;
 }
 </style>
